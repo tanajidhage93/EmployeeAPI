@@ -1,0 +1,6 @@
+@EmployeeDAPI_HostAddress = http://localhost:5111
+
+GET {{EmployeeDAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
